@@ -5,7 +5,6 @@ I'm mainly focused on Android malware analysis. I love playing with NFC and BLE 
 
 #### 📓 Blogs:
 - [https://eybisi.run](https://eybisi.run)
-- [https://pentest.blog](https://pentest.blog/author/ahmet-bilal-can/)
 
 #### 💬 Talks:
 - [Hacking Android Games For Fun](https://www.youtube.com/watch?v=ixRcso3W5EA) (Turkish)
